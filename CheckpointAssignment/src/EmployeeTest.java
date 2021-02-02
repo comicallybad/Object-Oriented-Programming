@@ -1,5 +1,5 @@
 
-public class EmplyeeTest {
+public class EmployeeTest {
 
 	public static void main(String[] args) {
 		Employee account1 = new Employee("John", "Doe", 100.50);
