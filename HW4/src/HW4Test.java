@@ -34,6 +34,7 @@ public class HW4Test {
 		}
 	}
 	
+	//This function will create a triangle of count rows, and output it to a triangle.txt file
 	public static void createTriangle(int rows) {
 		if(rows<0) {
 			throw new IllegalArgumentException("Only poisitive numbers are allowed!"); //Throw exception for negative input
