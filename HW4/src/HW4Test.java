@@ -1,3 +1,7 @@
+//John Seredick
+//2/16/2021
+//Assignment 4, this assignment will output a menu, and based on user input, call different functions
+
 import java.util.Scanner;
 import java.io.FileWriter;   // Import the FileWriter class
 import java.io.IOException;  // Import the IOException class to handle errors
